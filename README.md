@@ -1,6 +1,4 @@
-Hi there 👋
-
-I'm Esdros, a data science enthusiast with 1 year of experience and a passion for solving complex problems.
+Hi there 👋I'm Esdros, a data science enthusiast with 1 year of experience and a passion for solving complex problems.
 
 # Skills
 Data Science, Machine Learning, Python, Data Visualization, Statistical Analysis
