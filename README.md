@@ -17,12 +17,13 @@ Results-driven data science professional with 1 year of experience applying stat
 
 ---
 
-### ⛏️ Gold Recovery Prediction
+### 💰 Gold Recovery Prediction
 - Delivered a Random Forest model achieving an sMAPE of 2.16, a significant improvement over baseline
 - Benchmarked LightGBM, Random Forest, Decision Tree, and Linear Regression
 - Ran feature-importance analysis to identify key drivers of recovery rate
 
 👉 [View Project](https://github.com/esdrosdawit1/Data_projects_TripleTen/tree/main/Gold-Recovery-Integrated-Project)
+
 ---
 
 ### 🚗 Used Car Price Prediction
@@ -46,20 +47,3 @@ Results-driven data science professional with 1 year of experience applying stat
 ## 🛠 Skills
 
 **Programming:** Python, SQL
-**Machine Learning:** Linear Regression, Random Forest, LightGBM, CatBoost, CNN
-**Data Analysis:** Pandas, NumPy, Matplotlib
-
----
-
-## 🎯 Current Focus
-
-- Improving model evaluation and interpretation
-- Building more real-world data science projects
-- Learning how to deploy machine learning models
-
----
-
-## 📬 Contact
-
-- GitHub: [esdrosdawit1](https://github.com/esdrosdawit1)
-- LinkedIn: [in/esdrosyohannes](https://www.linkedin.com/in/esdrosyohannes/)
