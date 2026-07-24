@@ -13,7 +13,7 @@ Results-driven data science professional with 1 year of experience applying stat
 - Engineered an OpenCV preprocessing pipeline (resizing, normalization) for training data
 - Moved the model from prototype to production
 
-👉 [View Project](https://github.com/esdrosdawit1/Data_projects_TripleTen/blob/main/Age-Verification-For-Alcohol-Sales-Project/)
+👉 [View Project](https://github.com/esdrosdawit1/Data_projects_TripleTen/tree/main/Age%20Detection)
 
 ---
 
@@ -22,8 +22,7 @@ Results-driven data science professional with 1 year of experience applying stat
 - Benchmarked LightGBM, Random Forest, Decision Tree, and Linear Regression
 - Ran feature-importance analysis to identify key drivers of recovery rate
 
-👉 [View Project](https://github.com/esdrosdawit1/Data_projects_TripleTen/blob/main/Gold-Recovery-Integrated-Project/)
-
+👉 [View Project](https://github.com/esdrosdawit1/Data_projects_TripleTen/tree/main/Gold-Recovery-Integrated-Project)
 ---
 
 ### 🚗 Used Car Price Prediction
@@ -31,7 +30,7 @@ Results-driven data science professional with 1 year of experience applying stat
 - Ran residual analysis to detect model bias and recommend refinements
 - Delivered deployment recommendations for dynamic pricing strategy
 
-👉 [View Project](https://github.com/esdrosdawit1/Data_projects_TripleTen/blob/main/Used-Car-Price-Prediction-Project/)
+👉 [View Project](https://github.com/esdrosdawit1/Used-Car-Price-Prediction)
 
 ---
 
@@ -40,7 +39,7 @@ Results-driven data science professional with 1 year of experience applying stat
 - Applied TF-IDF vectorization and text preprocessing
 - Validated generalization against held-out and custom review samples
 
-👉 [View Project](https://github.com/esdrosdawit1/Data_projects_TripleTen/blob/main/Movie-Review-Sentiment-Analysis-Project/Movie-Review-Sentiment-Analysis-Project.ipynb)
+👉 [View Project](https://github.com/esdrosdawit1/Sentiment-Analysis)
 
 ---
 
